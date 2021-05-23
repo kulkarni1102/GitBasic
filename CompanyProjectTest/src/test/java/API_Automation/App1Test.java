@@ -14,7 +14,7 @@ public class App1Test {
 	@Test
 	public void AppLoginFailure()
 	{
-		System.out.println("App login fail");
+		System.out.println("App login failure");
 	}
 	
 }
